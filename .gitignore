@@ -1,0 +1,11 @@
+# Distribution assets belong in GitHub Releases, not in the repository.
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+.env
+.env.*
+
